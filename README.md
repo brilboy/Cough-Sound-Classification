@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code for a machine learning model developed to classify cough sounds by differentiating between wet and dry sounds. The project utilizes the Librosa and TensorFlow libraries for audio processing and machine learning, respectively. The data is visualized using IPython to generate spectrograms, providing insights into the characteristics of the cough sounds.
+This repository contains the code for a machine learning model developed to classify cough sounds by differentiating between wet and dry sounds. The project utilizes the Librosa and TensorFlow libraries for audio processing and machine learning, respectively. The data, sourced from [Kaggle](https://www.kaggle.com/datasets/ndewira/cough-sound), is visualized using IPython to generate spectrograms, providing insights into the characteristics of the cough sounds.
 
 ## Features
 
@@ -27,7 +27,7 @@ The project's primary contribution lies in its potential applications for public
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/cough-classification.git
+    git clone https://github.com/brilboy/cough-classification.git
     cd cough-classification
     ```
 
@@ -44,6 +44,10 @@ The project's primary contribution lies in its potential applications for public
     ```
 
 4. Follow the instructions within the notebook to train the model, visualize the data, and evaluate the results.
+
+## Data Source
+
+The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/ndewira/cough-sound). Special thanks to the contributors for providing this valuable resource.
 
 ## Dependencies
 
