@@ -14,6 +14,14 @@ This repository contains the code for a machine learning model developed to clas
 
 The classification model achieved a 70% accuracy rate in differentiating between wet and dry cough sounds. The results are based on the evaluation of the model using a specified dataset.
 
+## Contribution to Society
+
+The project's primary contribution lies in its potential applications for public health and epidemiological monitoring. By accurately classifying cough sounds, the model could be integrated into healthcare systems for early detection of respiratory conditions, such as identifying symptoms associated with infectious diseases. This early detection capability has the following societal benefits:
+
+- **Early Disease Identification:** The model can contribute to the early identification of respiratory conditions, allowing for timely intervention and treatment.
+- **Epidemiological Monitoring:** Monitoring and analyzing cough patterns in different regions can provide valuable insights for public health officials in tracking the spread of infectious diseases.
+- **Resource Allocation:** Improved disease surveillance can aid in more efficient allocation of healthcare resources during outbreaks, ensuring that affected areas receive timely support.
+
 ## Usage
 
 1. Clone the repository:
